@@ -21,7 +21,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **EduConnect** | Role-based smart education portal supporting Student, Teacher, and Admin workflows with attendance, assignments, and exam tracking. | Java, Spring Boot, MySQL, JS | [Live Demo](https://edu-connect-beryl-nu.vercel.app) \| [GitHub](https://github.com/dabhikeshvi0606) |
+| **EduConnect** | Role-based smart education portal supporting Student, Teacher, and Admin workflows with attendance, assignments, and exam tracking. | Java, Spring Boot, MySQL, JS | [Live Demo](https://educonnect-keshvi.vercel.app) \| [GitHub](https://github.com/dabhikeshvi0606) |
 | **TalentIQ AI** | AI-powered recruitment decision platform featuring Explainable AI match scoring and multi-candidate comparison. | Spring Boot, React, AI/ML | [GitHub](https://github.com/dabhikeshvi0606) |
 | **SpendSmart** | Full-stack personal expense tracker with secure authentication, category analytics, and budget management. | React, Express, MySQL, bcrypt | [GitHub](https://github.com/dabhikeshvi0606) |
 | **Task Manager** | Responsive single-page application for creating, filtering, and tracking daily tasks in real time. | React.js, JavaScript, CSS3 | [Live Demo](https://task-manager-a33j.vercel.app) \| [GitHub](https://github.com/dabhikeshvi0606) |
